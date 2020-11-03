@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Films>
+  <Film Name="2.22" Year="2017" Ganre="science fiction" RunningTime="98 minutes" Country="United States" Rate="5.8" />
+  <Film Name="Split" Year="2017" Ganre="psychological horror" RunningTime="119 minutes" Country="United States" Rate="7.3" />
+</Films>
